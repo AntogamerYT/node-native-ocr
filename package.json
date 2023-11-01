@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stoefln/node-native-ocr.git"
+    "url": "git+https://github.com/AntogamerYT/node-native-ocr.git"
   },
   "ava": {
     "require": "babel-register",
